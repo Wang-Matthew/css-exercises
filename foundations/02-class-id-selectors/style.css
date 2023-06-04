@@ -1,0 +1,19 @@
+.odd-elem {
+    background-color: rgb(197, 95, 95);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#the-id {
+    color: rgb(66, 66, 216);
+    font-size: 36px;
+}
+
+.odd-elem.but-cooler {
+    font-size: 24px;
+}
+
+#other-id {
+    background-color: rgb(103, 170, 103);
+    font-size: 24px;
+    font-weight: bold;
+}
